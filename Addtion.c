@@ -17,6 +17,8 @@ void main(){
 
     printf("Total is : %d",total);
 
+    printf("Anan Charoensap");
+
 // ---------------- สิ้นสุดโปรแกรมบวกเลข -------------------- //
 
 
